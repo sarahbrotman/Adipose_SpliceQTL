@@ -1,3 +1,5 @@
+# eQTL Pipeline
+
 ## Table of Contents
 1. Quantify genes and exons using QTLtools for each sample
 2. Quantify splice junctions using LeafCutter and calculate PSI
