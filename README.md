@@ -8,5 +8,35 @@ TBD
 
 ## Table of Contents
 
-1. eQTL mapping pipeline
-2. Scripts for follow-up data analysis
+1. Datasets and Software
+2. eQTL mapping pipeline
+3. Scripts for follow-up data analysis
+
+## 1. Datasets and Software
+### Datasets
+Dataset | Website
+--------|-------
+GENCODE v19 (July 2013)| https://www.gencodegenes.org/human/release_19.html
+GWAS Catalog (January 2020) | https://www.ebi.ac.uk/gwas/downloads
+ENCODE | https://www.encodeproject.org/
+GTEx v8 | https://gtexportal.org/home/datasets
+
+### Software/Tools
+Software/Tool | Website
+--------------|--------
+UCSC Genome Browser LiftOver | http://genome.ucsc.edu/cgi-bin/hgLiftOver
+Sigora v3.0.5 | https://cran.r-project.org/web/packages/sigora/sigora.pdf
+Bedtools | https://bedtools.readthedocs.io/en/latest/
+ggplot2 | https://ggplot2.tidyverse.org
+swiss | https://github.com/statgen/swiss
+STAR v2.4.2a | https://github.com/alexdobin/STAR
+LeafCutter v2.17.4 | https://davidaknowles.github.io/leafcutter/index.html
+QTLtools v1.1 | https://qtltools.github.io/qtltools/
+PEER | https://github.com/PMBio/peer/wiki
+edgeR | https://rdrr.io/bioc/edgeR/
+qvalue | https://github.com/nfusi/qvalue
+locusZoom v1.4 | https://genome.sph.umich.edu/wiki/LocusZoom_Standalone
+
+## 2. eQTL mapping pipeline
+
+## 3. Scripts for follow-up data analysis
