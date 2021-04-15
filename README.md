@@ -7,12 +7,20 @@ Alternate splicing events can create isoforms that alter gene function, and gene
 TBD
 
 ## Table of Contents
+1. METSIM data and summary statistics
+2. Publicly available datasets and software
+3. eQTL mapping pipeline
+4. Scripts for follow-up data analysis
 
-1. Datasets and Software
-2. eQTL mapping pipeline
-3. Scripts for follow-up data analysis
+## 1. METSIM data and summary statistics
+Please, see the METSIM_data_summaryStats directory to download the data.  
+  
+Included in the directory are the raw counts per gene or exon (quantified by QTLtools) for all 426 METSIM adipose tissue samples, PSI per splice junction (quantified by LeafCutter) for all METSIM samples, and the full summary statistics for the gene, exon, and splice junction QTL analyses.   
 
-## 1. Datasets and Software
+
+## 2. Publicly available datasets and software
+Many publically available datasets and software were used throughout the completion of this project. Please see the following websites to download software and cite the corresponding papers if you use the data/software. 
+
 ### Datasets
 Dataset | Website
 --------|-------
@@ -37,6 +45,7 @@ edgeR | https://rdrr.io/bioc/edgeR/
 qvalue | https://github.com/nfusi/qvalue
 locusZoom v1.4 | https://genome.sph.umich.edu/wiki/LocusZoom_Standalone
 
-## 2. eQTL mapping pipeline
+## 3. eQTL mapping pipeline
+We used the same pipeline to identify gene, exon, and splice juntion QTLs throughout this project. Please, see the eQTL_pipeline directory for details.
 
-## 3. Scripts for follow-up data analysis
+## 4. Scripts for follow-up data analysis
