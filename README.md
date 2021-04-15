@@ -10,7 +10,6 @@ TBD
 1. METSIM data and summary statistics
 2. Publicly available datasets and software
 3. eQTL mapping pipeline
-4. Scripts for follow-up data analysis
 
 ## 1. METSIM data and summary statistics
 Due to file size limits, please go to https://mohlke.web.unc.edu/data/ to download the data.  
@@ -47,5 +46,3 @@ locusZoom v1.4 | https://genome.sph.umich.edu/wiki/LocusZoom_Standalone
 
 ## 3. eQTL mapping pipeline
 We used the same pipeline to identify gene, exon, and splice juntion QTLs throughout this project. Please, see the eQTL_pipeline directory for details.
-
-## 4. Scripts for follow-up data analysis
