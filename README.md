@@ -13,9 +13,9 @@ TBD
 4. Scripts for follow-up data analysis
 
 ## 1. METSIM data and summary statistics
-Please, see the METSIM_data_summaryStats directory to download the data.  
+Due to file size limits, please go to https://mohlke.web.unc.edu/data/ to download the data.  
   
-Included in the directory are the raw counts per gene or exon (quantified by QTLtools) for all 426 METSIM adipose tissue samples, PSI per splice junction (quantified by LeafCutter) for all METSIM samples, and the full summary statistics for the gene, exon, and splice junction QTL analyses.   
+Available to download are the raw counts per gene or exon (quantified by QTLtools) for all 426 METSIM adipose tissue samples, PSI per splice junction (quantified by LeafCutter) for all METSIM samples, and the full summary statistics for the gene, exon, and splice junction QTL analyses.   
 
 
 ## 2. Publicly available datasets and software
